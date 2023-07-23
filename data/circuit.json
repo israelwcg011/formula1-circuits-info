@@ -8,7 +8,7 @@
     "lat": -37.8497,
     "lng": 144.968,
     "alt": "10",
-    "url": "http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit"
   },
   {
     "circuitId": 2,
@@ -19,7 +19,7 @@
     "lat": 2.76083,
     "lng": 101.738,
     "alt": "18",
-    "url": "http://en.wikipedia.org/wiki/Sepang_International_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Sepang_International_Circuit"
   },
   {
     "circuitId": 3,
@@ -30,7 +30,7 @@
     "lat": 26.0325,
     "lng": 50.5106,
     "alt": "7",
-    "url": "http://en.wikipedia.org/wiki/Bahrain_International_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Bahrain_International_Circuit"
   },
   {
     "circuitId": 4,
@@ -41,7 +41,7 @@
     "lat": 41.57,
     "lng": 2.26111,
     "alt": "109",
-    "url": "http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya"
+    "url": "https://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya"
   },
   {
     "circuitId": 5,
@@ -52,7 +52,7 @@
     "lat": 40.9517,
     "lng": 29.405,
     "alt": "130",
-    "url": "http://en.wikipedia.org/wiki/Istanbul_Park"
+    "url": "https://en.wikipedia.org/wiki/Istanbul_Park"
   },
   {
     "circuitId": 6,
@@ -63,7 +63,7 @@
     "lat": 43.7347,
     "lng": 7.42056,
     "alt": "7",
-    "url": "http://en.wikipedia.org/wiki/Circuit_de_Monaco"
+    "url": "https://en.wikipedia.org/wiki/Circuit_de_Monaco"
   },
   {
     "circuitId": 7,
@@ -74,7 +74,7 @@
     "lat": 45.5,
     "lng": -73.5228,
     "alt": "13",
-    "url": "http://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve"
+    "url": "https://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve"
   },
   {
     "circuitId": 8,
@@ -85,7 +85,7 @@
     "lat": 46.8642,
     "lng": 3.16361,
     "alt": "228",
-    "url": "http://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours"
+    "url": "https://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours"
   },
   {
     "circuitId": 9,
@@ -96,7 +96,7 @@
     "lat": 52.0786,
     "lng": -1.01694,
     "alt": "153",
-    "url": "http://en.wikipedia.org/wiki/Silverstone_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Silverstone_Circuit"
   },
   {
     "circuitId": 10,
@@ -107,7 +107,7 @@
     "lat": 49.3278,
     "lng": 8.56583,
     "alt": "103",
-    "url": "http://en.wikipedia.org/wiki/Hockenheimring"
+    "url": "https://en.wikipedia.org/wiki/Hockenheimring"
   },
   {
     "circuitId": 11,
@@ -118,7 +118,7 @@
     "lat": 47.5789,
     "lng": 19.2486,
     "alt": "264",
-    "url": "http://en.wikipedia.org/wiki/Hungaroring"
+    "url": "https://en.wikipedia.org/wiki/Hungaroring"
   },
   {
     "circuitId": 12,
@@ -129,7 +129,7 @@
     "lat": 39.4589,
     "lng": -0.331667,
     "alt": "4",
-    "url": "http://en.wikipedia.org/wiki/Valencia_Street_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Valencia_Street_Circuit"
   },
   {
     "circuitId": 13,
@@ -140,7 +140,7 @@
     "lat": 50.4372,
     "lng": 5.97139,
     "alt": "401",
-    "url": "http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps"
+    "url": "https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps"
   },
   {
     "circuitId": 14,
@@ -151,7 +151,7 @@
     "lat": 45.6156,
     "lng": 9.28111,
     "alt": "162",
-    "url": "http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza"
+    "url": "https://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza"
   },
   {
     "circuitId": 15,
@@ -162,7 +162,7 @@
     "lat": 1.2914,
     "lng": 103.864,
     "alt": "18",
-    "url": "http://en.wikipedia.org/wiki/Marina_Bay_Street_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Marina_Bay_Street_Circuit"
   },
   {
     "circuitId": 16,
@@ -173,7 +173,7 @@
     "lat": 35.3717,
     "lng": 138.927,
     "alt": "583",
-    "url": "http://en.wikipedia.org/wiki/Fuji_Speedway"
+    "url": "https://en.wikipedia.org/wiki/Fuji_Speedway"
   },
   {
     "circuitId": 17,
@@ -184,7 +184,7 @@
     "lat": 31.3389,
     "lng": 121.22,
     "alt": "5",
-    "url": "http://en.wikipedia.org/wiki/Shanghai_International_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Shanghai_International_Circuit"
   },
   {
     "circuitId": 18,
@@ -195,7 +195,7 @@
     "lat": -23.7036,
     "lng": -46.6997,
     "alt": "785",
-    "url": "http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace"
+    "url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace"
   },
   {
     "circuitId": 19,
@@ -206,7 +206,7 @@
     "lat": 39.795,
     "lng": -86.2347,
     "alt": "223",
-    "url": "http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway"
+    "url": "https://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway"
   },
   {
     "circuitId": 20,
@@ -217,7 +217,7 @@
     "lat": 50.3356,
     "lng": 6.9475,
     "alt": "578",
-    "url": "http://en.wikipedia.org/wiki/N%C3%BCrburgring"
+    "url": "https://en.wikipedia.org/wiki/N%C3%BCrburgring"
   },
   {
     "circuitId": 21,
@@ -228,7 +228,7 @@
     "lat": 44.3439,
     "lng": 11.7167,
     "alt": "37",
-    "url": "http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari"
+    "url": "https://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari"
   },
   {
     "circuitId": 22,
@@ -239,7 +239,7 @@
     "lat": 34.8431,
     "lng": 136.541,
     "alt": "45",
-    "url": "http://en.wikipedia.org/wiki/Suzuka_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Suzuka_Circuit"
   },
   {
     "circuitId": 80,
@@ -250,7 +250,7 @@
     "lat": 36.1147,
     "lng": -115.173,
     "alt": "\\N",
-    "url": "https://en.wikipedia.org/wiki/Las_Vegas_Grand_Prix#Circuit"
+    "url": "httpss://en.wikipedia.org/wiki/Las_Vegas_Grand_Prix#Circuit"
   },
   {
     "circuitId": 24,
@@ -261,7 +261,7 @@
     "lat": 24.4672,
     "lng": 54.6031,
     "alt": "3",
-    "url": "http://en.wikipedia.org/wiki/Yas_Marina_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Yas_Marina_Circuit"
   },
   {
     "circuitId": 25,
@@ -272,7 +272,7 @@
     "lat": -34.6943,
     "lng": -58.4593,
     "alt": "8",
-    "url": "http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez"
+    "url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez"
   },
   {
     "circuitId": 26,
@@ -283,7 +283,7 @@
     "lat": 36.7083,
     "lng": -6.03417,
     "alt": "37",
-    "url": "http://en.wikipedia.org/wiki/Circuito_Permanente_de_Jerez"
+    "url": "https://en.wikipedia.org/wiki/Circuito_Permanente_de_Jerez"
   },
   {
     "circuitId": 27,
@@ -294,7 +294,7 @@
     "lat": 38.7506,
     "lng": -9.39417,
     "alt": "130",
-    "url": "http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril"
+    "url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril"
   },
   {
     "circuitId": 28,
@@ -305,7 +305,7 @@
     "lat": 34.915,
     "lng": 134.221,
     "alt": "266",
-    "url": "http://en.wikipedia.org/wiki/TI_Circuit"
+    "url": "https://en.wikipedia.org/wiki/TI_Circuit"
   },
   {
     "circuitId": 29,
@@ -316,7 +316,7 @@
     "lat": -34.9272,
     "lng": 138.617,
     "alt": "58",
-    "url": "http://en.wikipedia.org/wiki/Adelaide_Street_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Adelaide_Street_Circuit"
   },
   {
     "circuitId": 30,
@@ -327,7 +327,7 @@
     "lat": -25.9894,
     "lng": 28.0767,
     "alt": "1460",
-    "url": "http://en.wikipedia.org/wiki/Kyalami"
+    "url": "https://en.wikipedia.org/wiki/Kyalami"
   },
   {
     "circuitId": 31,
@@ -338,7 +338,7 @@
     "lat": 52.8306,
     "lng": -1.37528,
     "alt": "88",
-    "url": "http://en.wikipedia.org/wiki/Donington_Park"
+    "url": "https://en.wikipedia.org/wiki/Donington_Park"
   },
   {
     "circuitId": 32,
@@ -349,7 +349,7 @@
     "lat": 19.4042,
     "lng": -99.0907,
     "alt": "2227",
-    "url": "http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez"
+    "url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez"
   },
   {
     "circuitId": 33,
@@ -360,7 +360,7 @@
     "lat": 33.4479,
     "lng": -112.075,
     "alt": "345",
-    "url": "http://en.wikipedia.org/wiki/Phoenix_street_circuit"
+    "url": "https://en.wikipedia.org/wiki/Phoenix_street_circuit"
   },
   {
     "circuitId": 34,
@@ -371,7 +371,7 @@
     "lat": 43.2506,
     "lng": 5.79167,
     "alt": "432",
-    "url": "http://en.wikipedia.org/wiki/Paul_Ricard_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Paul_Ricard_Circuit"
   },
   {
     "circuitId": 35,
@@ -382,7 +382,7 @@
     "lat": 34.7333,
     "lng": 126.417,
     "alt": "0",
-    "url": "http://en.wikipedia.org/wiki/Korean_International_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Korean_International_Circuit"
   },
   {
     "circuitId": 36,
@@ -393,7 +393,7 @@
     "lat": -22.9756,
     "lng": -43.395,
     "alt": "1126",
-    "url": "http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_Nelson_Piquet"
+    "url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_Nelson_Piquet"
   },
   {
     "circuitId": 37,
@@ -404,7 +404,7 @@
     "lat": 42.3298,
     "lng": -83.0401,
     "alt": "177",
-    "url": "http://en.wikipedia.org/wiki/Detroit_street_circuit"
+    "url": "https://en.wikipedia.org/wiki/Detroit_street_circuit"
   },
   {
     "circuitId": 38,
@@ -415,7 +415,7 @@
     "lat": 51.3569,
     "lng": 0.263056,
     "alt": "145",
-    "url": "http://en.wikipedia.org/wiki/Brands_Hatch"
+    "url": "https://en.wikipedia.org/wiki/Brands_Hatch"
   },
   {
     "circuitId": 39,
@@ -426,7 +426,7 @@
     "lat": 52.3888,
     "lng": 4.54092,
     "alt": "6",
-    "url": "http://en.wikipedia.org/wiki/Circuit_Zandvoort"
+    "url": "https://en.wikipedia.org/wiki/Circuit_Zandvoort"
   },
   {
     "circuitId": 40,
@@ -437,7 +437,7 @@
     "lat": 50.9894,
     "lng": 5.25694,
     "alt": "36",
-    "url": "http://en.wikipedia.org/wiki/Zolder"
+    "url": "https://en.wikipedia.org/wiki/Zolder"
   },
   {
     "circuitId": 41,
@@ -448,7 +448,7 @@
     "lat": 47.3625,
     "lng": 4.89913,
     "alt": "484",
-    "url": "http://en.wikipedia.org/wiki/Dijon-Prenois"
+    "url": "https://en.wikipedia.org/wiki/Dijon-Prenois"
   },
   {
     "circuitId": 42,
@@ -459,7 +459,7 @@
     "lat": 32.7774,
     "lng": -96.7587,
     "alt": "139",
-    "url": "http://en.wikipedia.org/wiki/Fair_Park"
+    "url": "https://en.wikipedia.org/wiki/Fair_Park"
   },
   {
     "circuitId": 43,
@@ -470,7 +470,7 @@
     "lat": 33.7651,
     "lng": -118.189,
     "alt": "12",
-    "url": "http://en.wikipedia.org/wiki/Long_Beach,_California"
+    "url": "https://en.wikipedia.org/wiki/Long_Beach,_California"
   },
   {
     "circuitId": 44,
@@ -481,7 +481,7 @@
     "lat": 36.1162,
     "lng": -115.174,
     "alt": "639",
-    "url": "http://en.wikipedia.org/wiki/Las_Vegas_Street_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Las_Vegas_Street_Circuit"
   },
   {
     "circuitId": 45,
@@ -492,7 +492,7 @@
     "lat": 40.6171,
     "lng": -3.58558,
     "alt": "609",
-    "url": "http://en.wikipedia.org/wiki/Circuito_Permanente_Del_Jarama"
+    "url": "https://en.wikipedia.org/wiki/Circuito_Permanente_Del_Jarama"
   },
   {
     "circuitId": 46,
@@ -503,7 +503,7 @@
     "lat": 42.3369,
     "lng": -76.9272,
     "alt": "485",
-    "url": "http://en.wikipedia.org/wiki/Watkins_Glen_International"
+    "url": "https://en.wikipedia.org/wiki/Watkins_Glen_International"
   },
   {
     "circuitId": 47,
@@ -514,7 +514,7 @@
     "lat": 57.2653,
     "lng": 13.6042,
     "alt": "153",
-    "url": "http://en.wikipedia.org/wiki/Scandinavian_Raceway"
+    "url": "https://en.wikipedia.org/wiki/Scandinavian_Raceway"
   },
   {
     "circuitId": 48,
@@ -525,7 +525,7 @@
     "lat": 44.0481,
     "lng": -78.6756,
     "alt": "332",
-    "url": "http://en.wikipedia.org/wiki/Mosport"
+    "url": "https://en.wikipedia.org/wiki/Mosport"
   },
   {
     "circuitId": 49,
@@ -536,7 +536,7 @@
     "lat": 41.3664,
     "lng": 2.15167,
     "alt": "79",
-    "url": "http://en.wikipedia.org/wiki/Montju%C3%AFc_circuit"
+    "url": "https://en.wikipedia.org/wiki/Montju%C3%AFc_circuit"
   },
   {
     "circuitId": 50,
@@ -547,7 +547,7 @@
     "lat": 50.6211,
     "lng": 4.32694,
     "alt": "139",
-    "url": "http://en.wikipedia.org/wiki/Nivelles-Baulers"
+    "url": "https://en.wikipedia.org/wiki/Nivelles-Baulers"
   },
   {
     "circuitId": 51,
@@ -558,7 +558,7 @@
     "lat": 45.7472,
     "lng": 3.03889,
     "alt": "790",
-    "url": "http://en.wikipedia.org/wiki/Charade_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Charade_Circuit"
   },
   {
     "circuitId": 52,
@@ -569,7 +569,7 @@
     "lat": 46.1877,
     "lng": -74.6099,
     "alt": "214",
-    "url": "http://en.wikipedia.org/wiki/Circuit_Mont-Tremblant"
+    "url": "https://en.wikipedia.org/wiki/Circuit_Mont-Tremblant"
   },
   {
     "circuitId": 53,
@@ -580,7 +580,7 @@
     "lat": 49.3306,
     "lng": 1.00458,
     "alt": "81",
-    "url": "http://en.wikipedia.org/wiki/Rouen-Les-Essarts"
+    "url": "https://en.wikipedia.org/wiki/Rouen-Les-Essarts"
   },
   {
     "circuitId": 54,
@@ -591,7 +591,7 @@
     "lat": 47.95,
     "lng": 0.224231,
     "alt": "67",
-    "url": "http://en.wikipedia.org/wiki/Circuit_de_la_Sarthe#Bugatti_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Circuit_de_la_Sarthe#Bugatti_Circuit"
   },
   {
     "circuitId": 55,
@@ -602,7 +602,7 @@
     "lat": 49.2542,
     "lng": 3.93083,
     "alt": "88",
-    "url": "http://en.wikipedia.org/wiki/Reims-Gueux"
+    "url": "https://en.wikipedia.org/wiki/Reims-Gueux"
   },
   {
     "circuitId": 56,
@@ -613,7 +613,7 @@
     "lat": -33.0486,
     "lng": 27.8736,
     "alt": "15",
-    "url": "http://en.wikipedia.org/wiki/Prince_George_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Prince_George_Circuit"
   },
   {
     "circuitId": 57,
@@ -624,7 +624,7 @@
     "lat": 47.2039,
     "lng": 14.7478,
     "alt": "676",
-    "url": "http://en.wikipedia.org/wiki/Zeltweg_Airfield"
+    "url": "https://en.wikipedia.org/wiki/Zeltweg_Airfield"
   },
   {
     "circuitId": 58,
@@ -635,7 +635,7 @@
     "lat": 53.4769,
     "lng": -2.94056,
     "alt": "20",
-    "url": "http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit"
   },
   {
     "circuitId": 59,
@@ -646,7 +646,7 @@
     "lat": 41.1705,
     "lng": -8.67325,
     "alt": "28",
-    "url": "http://en.wikipedia.org/wiki/Circuito_da_Boavista"
+    "url": "https://en.wikipedia.org/wiki/Circuito_da_Boavista"
   },
   {
     "circuitId": 60,
@@ -657,7 +657,7 @@
     "lat": 33.937,
     "lng": -117.273,
     "alt": "470",
-    "url": "http://en.wikipedia.org/wiki/Riverside_International_Raceway"
+    "url": "https://en.wikipedia.org/wiki/Riverside_International_Raceway"
   },
   {
     "circuitId": 61,
@@ -668,7 +668,7 @@
     "lat": 52.4806,
     "lng": 13.2514,
     "alt": "53",
-    "url": "http://en.wikipedia.org/wiki/AVUS"
+    "url": "https://en.wikipedia.org/wiki/AVUS"
   },
   {
     "circuitId": 62,
@@ -679,7 +679,7 @@
     "lat": 38.7197,
     "lng": -9.20306,
     "alt": "158",
-    "url": "http://en.wikipedia.org/wiki/Monsanto_Park_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Monsanto_Park_Circuit"
   },
   {
     "circuitId": 63,
@@ -690,7 +690,7 @@
     "lat": 27.4547,
     "lng": -81.3483,
     "alt": "18",
-    "url": "http://en.wikipedia.org/wiki/Sebring_Raceway"
+    "url": "https://en.wikipedia.org/wiki/Sebring_Raceway"
   },
   {
     "circuitId": 64,
@@ -701,7 +701,7 @@
     "lat": 33.5786,
     "lng": -7.6875,
     "alt": "19",
-    "url": "http://en.wikipedia.org/wiki/Ain-Diab_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Ain-Diab_Circuit"
   },
   {
     "circuitId": 65,
@@ -712,7 +712,7 @@
     "lat": 42.475,
     "lng": 14.1508,
     "alt": "129",
-    "url": "http://en.wikipedia.org/wiki/Pescara_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Pescara_Circuit"
   },
   {
     "circuitId": 66,
@@ -723,7 +723,7 @@
     "lat": 46.9589,
     "lng": 7.40194,
     "alt": "551",
-    "url": "http://en.wikipedia.org/wiki/Circuit_Bremgarten"
+    "url": "https://en.wikipedia.org/wiki/Circuit_Bremgarten"
   },
   {
     "circuitId": 67,
@@ -734,7 +734,7 @@
     "lat": 41.3903,
     "lng": 2.11667,
     "alt": "85",
-    "url": "http://en.wikipedia.org/wiki/Pedralbes_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Pedralbes_Circuit"
   },
   {
     "circuitId": 68,
@@ -745,7 +745,7 @@
     "lat": 28.3487,
     "lng": 77.5331,
     "alt": "194",
-    "url": "http://en.wikipedia.org/wiki/Buddh_International_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Buddh_International_Circuit"
   },
   {
     "circuitId": 69,
@@ -756,7 +756,7 @@
     "lat": 30.1328,
     "lng": -97.6411,
     "alt": "161",
-    "url": "http://en.wikipedia.org/wiki/Circuit_of_the_Americas"
+    "url": "https://en.wikipedia.org/wiki/Circuit_of_the_Americas"
   },
   {
     "circuitId": 70,
@@ -767,7 +767,7 @@
     "lat": 47.2197,
     "lng": 14.7647,
     "alt": "678",
-    "url": "http://en.wikipedia.org/wiki/Red_Bull_Ring"
+    "url": "https://en.wikipedia.org/wiki/Red_Bull_Ring"
   },
   {
     "circuitId": 71,
@@ -778,7 +778,7 @@
     "lat": 43.4057,
     "lng": 39.9578,
     "alt": "2",
-    "url": "http://en.wikipedia.org/wiki/Sochi_Autodrom"
+    "url": "https://en.wikipedia.org/wiki/Sochi_Autodrom"
   },
   {
     "circuitId": 73,
@@ -789,7 +789,7 @@
     "lat": 40.3725,
     "lng": 49.8533,
     "alt": "-7",
-    "url": "http://en.wikipedia.org/wiki/Baku_City_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Baku_City_Circuit"
   },
   {
     "circuitId": 75,
@@ -800,7 +800,7 @@
     "lat": 37.227,
     "lng": -8.6267,
     "alt": "108",
-    "url": "http://en.wikipedia.org/wiki/Algarve_International_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Algarve_International_Circuit"
   },
   {
     "circuitId": 76,
@@ -811,7 +811,7 @@
     "lat": 43.9975,
     "lng": 11.3719,
     "alt": "255",
-    "url": "http://en.wikipedia.org/wiki/Mugello_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Mugello_Circuit"
   },
   {
     "circuitId": 77,
@@ -822,7 +822,7 @@
     "lat": 21.6319,
     "lng": 39.1044,
     "alt": "15",
-    "url": "http://en.wikipedia.org/wiki/Jeddah_Street_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Jeddah_Street_Circuit"
   },
   {
     "circuitId": 78,
@@ -833,7 +833,7 @@
     "lat": 25.49,
     "lng": 51.4542,
     "alt": "\\N",
-    "url": "http://en.wikipedia.org/wiki/Losail_International_Circuit"
+    "url": "https://en.wikipedia.org/wiki/Losail_International_Circuit"
   },
   {
     "circuitId": 79,
@@ -844,6 +844,6 @@
     "lat": 25.9581,
     "lng": -80.2389,
     "alt": "\\N",
-    "url": "http://en.wikipedia.org/wiki/Miami_International_Autodrome"
+    "url": "https://en.wikipedia.org/wiki/Miami_International_Autodrome"
   }
 ]
