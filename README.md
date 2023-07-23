@@ -2,7 +2,7 @@
 # Formula 1 Circuits Info
 ### Introduction
 
-In this project I create a simple WEBGIS to show the location of all Circuits that Formula 1 ever raced. You can see the locations as blue markers and can interact with them by clicking on them, opening a left menu that shows more info.
+In this project I create a simple WEBGIS to show the location of all Circuits that Formula 1 ever raced. You can see the locations as blue markers and can interact with them by clicking on them, opening a left menu that shows more info. You can access the WEBGIS [here](https://israelwcg011.github.io/formula1-circuits-info/).
 
 ### Technologies used
 
