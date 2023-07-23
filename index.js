@@ -11,7 +11,7 @@ const formulaOneCircuits = L.layerGroup(data.map(
   item => L.marker([item.lat, item.lng]).bindTooltip(
     `<div>
       <h2>${item.name}</h2>
-      <h4>Click in the marker for more details</h4>
+      <h5>Click in the marker for more details</h5>
     </div>`
   ).on('click', function () {
     // sidebar.hide()
